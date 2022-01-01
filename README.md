@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love traveling, taking pictures of nature
 
 <br />
