@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love traveling, taking pictures of nature and of course coding.
+- ⚡ Fun fact: I love traveling, landscape photography and of course coding.
 
 <br />
 
