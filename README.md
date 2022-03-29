@@ -1,6 +1,6 @@
 ### Hi there, I'm Alin 👋
 
-## I'm a Developer!!
+## I'm a Front-end Developer!!
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 👯 I’m looking to collaborate with other developers
