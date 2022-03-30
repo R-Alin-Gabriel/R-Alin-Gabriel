@@ -2,8 +2,9 @@
 
 ## I'm a Front-end Developer!!
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently learning ReactJS, in depth.
+- 👯 I’m looking to collaborate on any HTML, CSS or JavaScript and ReactJS related project.
+- 🤔 I’m looking for help with finding cool JavaScript projects to build.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love traveling, landscape photography and of course coding.
 
